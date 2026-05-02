@@ -1,0 +1,10 @@
+flask==3.0.3
+flask-cors==4.0.1
+numpy==1.24.3
+pillow==10.3.0
+google-generativeai==0.7.2
+gdown==5.2.0
+gunicorn==21.2.0
+python-dotenv==1.0.1
+tensorflow>=2.16.0
+keras>=3.0.0
